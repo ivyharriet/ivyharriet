@@ -3,7 +3,7 @@
 
 ## 👹 About me 👹
 
-<img src="https://github.com/ivyharriet/ivyharriet/blob/ivyharriet-readme/badass-skeleton.gif" align="right" width="300"> 
+<img src="https://github.com/ivyharriet/ivyharriet/blob/ivyharriet-readme/spooky-skeleton.gif" align="right" width="300"> 
 
 - 🌈 **Who?** Ivy Alexander (She/Her)
 - 📍 **Where?** London, England, with my partner Sarah ✨
@@ -20,4 +20,4 @@ Hi! I'm Ivy, and I'm a Senior Enterprise Support Manager at GitHub! I've worked 
 - ⚔️ Working on my multiplayer video game project!
 - 🗃️ Trying to give our house the Marie Kondo treatment!
 
-You are visitor number ![visitor counter](visitor-counter.png) to my README.md -- don't forget to sign the guestbook!
+You are visitor number ![visitor counter](extremely-functioning-visitor-counter.png) to my README.md -- don't forget to sign the guestbook!
