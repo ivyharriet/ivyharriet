@@ -20,4 +20,4 @@ Hi! I'm Ivy, and I'm a Senior Enterprise Support Manager at GitHub! I've worked 
 
 ![cool flames](https://github.com/ivyharriet/ivyharriet/blob/main/badass-flames.gif)
 
-You are visitor number ![visitor counter](extremely-functioning-visitor-counter.png) to my README.md -- don't forget to sign the guestbook!
+You might be visitor number ![visitor counter](extremely-functioning-visitor-counter.png) to my README.md -- don't forget to sign the guestbook!
