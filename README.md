@@ -1,10 +1,10 @@
 
-<img src="https://github.com/ivyharriet/ivyharriet/blob/main/cool-flames.gif"> 
+<img src="https://github.com/ivyharriet/ivyharriet/blob/ivyharriet-readme/cool-flames.gif"> 
 
 ## 👹 About me 👹
 
 <div>
-  <img src="https://github.com/ivyharriet/ivyharriet/blob/main/badass-skeleton.gif" align="right" width="300"> 
+  <img src="https://github.com/ivyharriet/ivyharriet/blob/ivyharriet-readme/badass-skeleton.gif" align="right" width="300"> 
 
 <ul>
   <li><b>👤 Name: </b> Ivy Alexander</li>
@@ -17,7 +17,7 @@
 
 </div>
 
-<img src="https://github.com/ivyharriet/ivyharriet/blob/main/cool-flames.gif"> 
+<img src="https://github.com/ivyharriet/ivyharriet/blob/ivyharriet-readme/cool-flames.gif"> 
 
 <h2>I'm currently ...</h2>
 
