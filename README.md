@@ -13,7 +13,7 @@ Hi! I'm Ivy, and I'm a Senior Enterprise Support Manager at GitHub! I've worked 
 
 ## 👹 Stuff I enjoy 👹
 
-- 🌇 Geocities. Can you tell?
+- 🌇 GeoCities. Can you tell?
 - 🖌️ Painting tiny models, especially Warhammer 30K!
 - ⚔️ Working on my multiplayer video game project!
 - 🗃️ Trying to give our house the Marie Kondo treatment!
