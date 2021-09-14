@@ -11,8 +11,6 @@
 
 Hi! I'm Ivy, and I'm a Senior Enterprise Support Manager at GitHub! I've worked in support for mostly Linux-related stuff for about 10 years. I worked at Canonical, the company behind Ubuntu, for 5 years, then joined GitHub in 2017. As a manager I love finding ways to do things simply and beautifully, making my team a warm and fun environment and hiring a team that is a little different from the everyday ✨
 
-![cool flames](https://github.com/ivyharriet/ivyharriet/blob/main/badass-flames.gif)
-
 ## 👹 Stuff I enjoy 👹
 
 - 🌇 Geocities. Can you tell?
