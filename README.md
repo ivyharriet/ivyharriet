@@ -20,4 +20,6 @@ Hi! I'm Ivy, and I'm a Senior Enterprise Support Manager at GitHub! I've worked 
 - ⚔️ Working on my multiplayer video game project!
 - 🗃️ Trying to give our house the Marie Kondo treatment!
 
+![cool flames](https://github.com/ivyharriet/ivyharriet/blob/main/badass-flames.gif)
+
 You are visitor number ![visitor counter](extremely-functioning-visitor-counter.png) to my README.md -- don't forget to sign the guestbook!
