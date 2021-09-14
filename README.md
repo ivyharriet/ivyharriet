@@ -1,10 +1,10 @@
 
-<img src="https://github.com/ivyharriet/ivyharriet/blob/main/assets/cool-flames.gif"> 
+<img src="https://github.com/ivyharriet/ivyharriet/blob/main/cool-flames.gif"> 
 
 ## 👹 About me 👹
 
 <div>
-  <img src="https://github.com/ivyharriet/ivyharriet/blob/main/assets/badass-skeleton.gif" align="right" width="300"> 
+  <img src="https://github.com/ivyharriet/ivyharriet/blob/main/badass-skeleton.gif" align="right" width="300"> 
 
 <ul>
   <li><b>👤 Name: </b> Ivy Alexander</li>
@@ -17,7 +17,7 @@
 
 </div>
 
-<img src="https://github.com/ivyharriet/ivyharriet/blob/main/assets/cool-flames.gif"> 
+<img src="https://github.com/ivyharriet/ivyharriet/blob/main/cool-flames.gif"> 
 
 <h2>I'm currently ...</h2>
 
@@ -29,4 +29,4 @@
 <h2>Links</h2>
 
 - 🔬 My LinkedIn
-<!-- - 📝 Working with me? Read the [Juan Pa's User Manual](https://link) -->
+<!-- - 📝 Working with me? Read my [User Manual](https://link) -->
