@@ -9,7 +9,7 @@
 - 📍 **Where?** London, England, with my partner Sarah ✨
 - :octocat: **What?** Senior Enterprise Support Manager at [GitHub](https://github.com)
 
-Hi! I'm Ivy, and I'm a Senior Enterprise Support Manager at GitHub! I've worked in support for mostly Linux-related stuff for about 10 years. I worked at Canonical, the company behind Ubuntu, for 5 years, then joined GitHub in 2017. As a manager I love finding ways to do things simply and beautifully, making my team a warm and fun environment and hiring a team that is a little different from the everyday ✨
+Hi! I'm Ivy, and I'm a Senior Docs Content Manager at GitHub! I've worked for companies in the open source community for about 10 years; at Canonical, the company behind Ubuntu, for 5 years, then GitHub since 2017. As a manager I love finding ways to do things simply and beautifully, making my team a warm and fun environment and hiring a team that is a little different from the everyday ✨
 
 ## 👹 Stuff I enjoy 👹
 
@@ -19,5 +19,3 @@ Hi! I'm Ivy, and I'm a Senior Enterprise Support Manager at GitHub! I've worked 
 - 🗃️ Trying to give our house the Marie Kondo treatment!
 
 ![cool flames](https://github.com/ivyharriet/ivyharriet/blob/main/badass-flames.gif)
-
-You might be visitor number ![visitor counter](extremely-functioning-visitor-counter.png) to my README.md -- don't forget to sign the guestbook!
