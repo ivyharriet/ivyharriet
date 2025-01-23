@@ -6,7 +6,7 @@
 <img src="https://github.com/ivyharriet/ivyharriet/blob/main/skeleton-toot.gif" align="right" width="300"> 
 
 - 🌈 **Who?** Ivy Alexander (She/Her)</br>
-- 📍 **Where?** United Kingdom</br>
+- 📍 **Where?** Tokyo</br>
 - :tickets: **What?** Senior Manager of Engineering, Internal Tools and Platform at [Peatix](https://peatix.com)</br></br>
 - :octocat: Formerly Senior Product Documentation Manager at [GitHub](https://github.com)</br>
 - :octocat: Formerly Senior Enterprise Support Manager at [GitHub](https://github.com)
